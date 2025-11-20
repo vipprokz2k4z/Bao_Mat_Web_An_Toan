@@ -99,12 +99,12 @@ VITE_API_URL=http://localhost:3000
 
 Đặt các screenshot vào `docs/screenshots/` (tạo thư mục nếu chưa có) và cập nhật đúng tên file:
 
-1. ![Trang đăng nhập](<img width="1401" height="769" alt="Ảnh chụp màn hình 2025-11-20 230257" src="https://github.com/user-attachments/assets/a2d5e310-01f3-49b3-a034-e49a35a5ae07" />
-)
-2. ![Form đăng ký](<img width="1402" height="767" alt="Ảnh chụp màn hình 2025-11-20 230442" src="https://github.com/user-attachments/assets/8c8d57dc-89e9-40ed-b5f4-f6e87202cec5" />
-)
-3. ![Playground mass assignment (unsafe)](<img width="1004" height="813" alt="Ảnh chụp màn hình 2025-11-20 231211" src="https://github.com/user-attachments/assets/22d2d37c-147b-455d-8fb4-fffd44217930" />
-)
+1. Trang đăng nhập
+<img width="1401" height="769" alt="Ảnh chụp màn hình 2025-11-20 230257" src="https://github.com/user-attachments/assets/a2d5e310-01f3-49b3-a034-e49a35a5ae07" />
+3. Form đăng ký
+<img width="1402" height="767" alt="Ảnh chụp màn hình 2025-11-20 230442" src="https://github.com/user-attachments/assets/8c8d57dc-89e9-40ed-b5f4-f6e87202cec5" />
+5. Playground mass assignment
+<img width="1004" height="813" alt="Ảnh chụp màn hình 2025-11-20 231211" src="https://github.com/user-attachments/assets/22d2d37c-147b-455d-8fb4-fffd44217930" />
 
 ## 8. Phụ lục lệnh nhanh (PowerShell)
 
