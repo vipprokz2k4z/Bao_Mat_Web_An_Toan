@@ -97,8 +97,6 @@ VITE_API_URL=http://localhost:3000
 
 ## 7. Kết quả & hình ảnh minh họa
 
-Đặt các screenshot vào `docs/screenshots/` (tạo thư mục nếu chưa có) và cập nhật đúng tên file:
-
 1. Trang đăng nhập
 <img width="1401" height="769" alt="Ảnh chụp màn hình 2025-11-20 230257" src="https://github.com/user-attachments/assets/a2d5e310-01f3-49b3-a034-e49a35a5ae07" />
 2. Form đăng ký
