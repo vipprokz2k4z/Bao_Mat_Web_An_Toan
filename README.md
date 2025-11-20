@@ -48,22 +48,7 @@ cd Bao_Mat_Web
 npm install
 ```
 
-### 5.2 Cấu hình `.env`
-
-Tạo file `.env` tại thư mục gốc (tham khảo ví dụ dưới):
-
-```
-PORT=3000
-DB_HOST=localhost
-DB_PORT=3306
-DB_USER=root
-DB_PASSWORD=
-DB_NAME=mass_assignment_demo
-FRONTEND_URL=http://localhost:5173
-INITIAL_PASSWORD=Password123!
-```
-
-### 5.3 Import / khởi tạo database
+### 5.2 Import / khởi tạo database
 
 Không cần import thủ công: khi chạy server lần đầu, `server.js` sẽ:
 
@@ -73,7 +58,7 @@ Không cần import thủ công: khi chạy server lần đầu, `server.js` s�
 
 Nếu cần tự import, chỉ cần tạo DB rồi chạy script SQL tương đương trong `server.js`.
 
-### 5.4 Chạy backend
+### 5.3 Chạy backend
 
 ```bash
 npm run dev   # dùng Nodemon trong quá trình phát triển
@@ -83,7 +68,7 @@ npm start
 
 Backend lắng nghe ở `http://localhost:3000` (tùy biến qua biến môi trường `PORT`).
 
-### 5.5 Cài đặt & chạy frontend
+### 5.44 Cài đặt & chạy frontend
 
 ```bash
 cd frontend
