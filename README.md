@@ -28,7 +28,7 @@ Bao_Mat_Web/
 │   └── tailwind.config.js # Config Tailwind
 ├── node_modules/          # Packages backend
 ├── package.json           # Script/backend deps
-├── .env.example           # Khuyến nghị cấu hình (tạo thủ công từ mục 5.2)
+├── .env.example           # Cấu hình 
 └── README.md              # Tài liệu này
 ```
 
