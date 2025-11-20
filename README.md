@@ -99,13 +99,12 @@ VITE_API_URL=http://localhost:3000
 
 Đặt các screenshot vào `docs/screenshots/` (tạo thư mục nếu chưa có) và cập nhật đúng tên file:
 
-1. ![Trang đăng nhập](docs/screenshots/01-login.png)
-2. ![Form đăng ký](docs/screenshots/02-register.png)
-3. ![Playground mass assignment (unsafe)](docs/screenshots/03-unsafe.png)
-4. ![Playground mass assignment (safe)](docs/screenshots/04-safe.png)
-5. ![Danh sách user sau khi reset](docs/screenshots/05-users.png)
-
-_Lưu ý: Screenshot mẫu có thể lấy trực tiếp từ giao diện thực tế bạn đã chụp; chỉ cần đặt đúng đường dẫn như trên để README hiển thị hình ảnh._
+1. ![Trang đăng nhập](<img width="1401" height="769" alt="Ảnh chụp màn hình 2025-11-20 230257" src="https://github.com/user-attachments/assets/a2d5e310-01f3-49b3-a034-e49a35a5ae07" />
+)
+2. ![Form đăng ký](<img width="1402" height="767" alt="Ảnh chụp màn hình 2025-11-20 230442" src="https://github.com/user-attachments/assets/8c8d57dc-89e9-40ed-b5f4-f6e87202cec5" />
+)
+3. ![Playground mass assignment (unsafe)](<img width="1004" height="813" alt="Ảnh chụp màn hình 2025-11-20 231211" src="https://github.com/user-attachments/assets/22d2d37c-147b-455d-8fb4-fffd44217930" />
+)
 
 ## 8. Phụ lục lệnh nhanh (PowerShell)
 
